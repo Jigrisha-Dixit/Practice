@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    color: rgb(87, 87, 199);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight:bolder;
+    
+    background-color: bisque;
+    text-align: center;
+}
+*{
+    align-items: center;
+}
+img{
+    width: 50%;
+    height: 10%;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    border: 2px solid;
+    border-color: palevioletred;
+    background-color: pink;
+    padding: 10px 10px;
+    border-radius: 40px;
+    margin-left: 30%;
+    margin-right: 20%;
+    margin-bottom: 1%;
+    margin-top: 1%;
+}
+.img1{
+    margin-top: 0%;
+    margin-right: 0%;
+}
+.card1{
+    display: flex;
+    margin-right: 20%;
+}
+.card3{
+    display: flex;
+    margin-left: 15%;
+}

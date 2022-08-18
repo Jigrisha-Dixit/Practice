@@ -1,0 +1,70 @@
+
+.todo-container{
+    border: 10px rgb(244, 57, 57) solid;
+ border-width: 10px;
+   border-radius: 15px;
+   padding: 20px 10px;
+   width:400px;
+   margin-left: 10%;
+   text-align: center;
+   margin-bottom: 30px;
+   margin-right: 10%;
+
+}
+
+.bt{
+    background-color:darkolivegreen;
+    color: white;
+    margin-right: 2%;
+    padding: 4px 4px;
+    margin-bottom: 2%;
+}
+button:hover{
+    background-color:rgb(240, 82, 201);
+    border: none;
+    color:black;
+}
+h2{
+    color:rgb(112, 32, 240);
+    border :black solid;
+    padding: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: xx-large;
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+.h3{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   border: solid black;
+   margin-left: 90px;
+   margin-right: 90px;
+   border-radius: 30px;
+   background-color: black;
+   color: antiquewhite;
+   padding: 10px;
+}
+.cw{
+    border: solid rgb(9, 16, 225);
+    border-width: 2px;
+    margin-bottom: 2%;
+    background-color: antiquewhite;
+    border-radius: 40px;
+}
+img{
+    width: 100px;
+}
+h4{
+    color: rgb(138, 135, 222);
+    font-size: large;
+}
+.card{
+    display: flex;
+    margin-left: 15%;
+}
+.card2{
+    display: flex;
+    margin-right: 20%;
+}
